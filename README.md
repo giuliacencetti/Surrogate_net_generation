@@ -1,4 +1,4 @@
-Code for the article "Generating surrogate temporal networks from mesoscale building blocks" by Giulia Cencetti and Alain Barrat.
+Code for the article "Generating surrogate temporal networks from mesoscale building blocks" by Giulia Cencetti and Alain Barrat. Pre-print: https://arxiv.org/abs/2411.05477. Seminar: https://socialdatascience.network/fall2024/sess3.html
 
 To generate the surrogate networks:
 
