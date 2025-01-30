@@ -81,9 +81,7 @@ def choose_dir_edges_EST(unidir_edges,edges_to_keep,nb_edges_to_add,Params,nb_pa
         c = Params['c']
     else:
         c = 1
-    if unidir_edges == []:
-        edges_to_keep = []
-    else:
+    if unidir_edges != []:
         gamma = {} # Clustering
         for edge in unidir_edges:
             node0 = edge[0]
